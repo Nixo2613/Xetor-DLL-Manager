@@ -1,2 +1,6 @@
 # Xetor-DLL-Manager
-Hello, this project is French but here I am speaking English. This project involves adding a new use for an archive. The XDLLs will be managed by Xetor DLL Manager, made in Python, just to make the modifications in the registry. You will have at your disposal a .reg file that will do everything for you.
+type script used : python
+library application python : tkinter
+coder : ChatGPT
+
+This project is just here to test and experiment you can say it's crap and you would be right, it’s just for testing and to see if it could work, project made by ChatGPT and Nixo2613.
